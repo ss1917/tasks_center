@@ -1,0 +1,8 @@
+tornado==4.5.2
+pycurl==7.43
+shortuuid==0.5.0
+pika==0.11.0
+pymysql==0.7.11
+sqlalchemy==1.1.14
+requests
+paramiko==2.3.1
